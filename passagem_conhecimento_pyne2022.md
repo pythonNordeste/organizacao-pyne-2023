@@ -20,8 +20,11 @@ A equipe tinha o seguinte organograma:
 Onde toda semana na reunião semanal: 
 
 Era dada ciência para a pessoa Big Kahuna do que já havia sido feito na semana anterior pelos núcleos;
+
 Era discutido o que precisava ser realizado por cada área na próxima semana (antes da próxima reunião);
+
 As pessoas líderes de núcleo ficaram encarregadas de acompanhar e delegar as demandas para a equipe, acompanhando possíveis problemas;
+
 O acompanhamento das demandas era acompanhado em um quadro Kanban do Trello, com a estrutura abaixo descrita:
 
 ![Quadro do Trello]()
