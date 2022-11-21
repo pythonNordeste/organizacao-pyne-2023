@@ -15,7 +15,7 @@ Deixaremos aqui o contato de todas as empresas que contratamos remotamente para 
 A equipe foi organizada em alguns núcleos, que por conseguinte, tinham total liberdade para atacar as tarefas pertinentes à cada núcleo.
 A equipe tinha o seguinte organograma:
 
-![Organograma](https://myoctocat.com/assets/images/base-octocat.svg)
+![Organograma](https://github.com/Lorenaps/organizacao-pyne-2023/blob/patch-1/org_pyne2022.PNG)
 
 Onde toda semana na reunião semanal: 
 
@@ -24,7 +24,7 @@ Era discutido o que precisava ser realizado por cada área na próxima semana (a
 As pessoas líderes de núcleo ficaram encarregadas de acompanhar e delegar as demandas para a equipe, acompanhando possíveis problemas;
 O acompanhamento das demandas era acompanhado em um quadro Kanban do Trello, com a estrutura abaixo descrita:
 
-![Quadro do Trello](https://myoctocat.com/assets/images/base-octocat.svg)
+![Quadro do Trello]()
 
 ## Cronograma de tarefas PyNE22
 A seguir está disposto o cronograma seguido pela organização, podendo ser seguido ou adequado à maneira da próxima equipe organizadora:
