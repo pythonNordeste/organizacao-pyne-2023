@@ -26,7 +26,7 @@ Para acompanhar as atividades em andamento, acesse este [link](https://github.co
 | Conteúdo | Criar o formulário de submissão, Estabelecer critérios para seleção de atividade, Estabelecer metodologia para revisão das propostas, Montagem da programação | [@pythonNordeste/conteudo-2023](https://github.com/orgs/pythonNordeste/teams/conteudo-2023)
 | Operacional | Contato com fornecedor, Aquisição de serviços, Organizar monitores, Credenciamento, Inscrição | [@pythonNordeste/operacional-2023](https://github.com/orgs/pythonNordeste/teams/operacional-2023) |
 | Financeiro | Controlar entrada e saída de dinheiro, Venda de ingresso, Programa de Auxílio financeiro | [@pythonNordeste/financeiro-2023](https://github.com/orgs/pythonNordeste/teams/financeiro-2023) |
-| Time de resposta do código de conduta - CDC | Obs: Importante que não seja ninguém da organização | - |
+| Time de resposta do código de conduta - CDC | Obs: Importante que não seja ninguém da organização | Anicely Santos (@anicelysantos) |
 
 ## Ideação do evento
 
