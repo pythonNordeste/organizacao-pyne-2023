@@ -31,3 +31,16 @@ Para acompanhar as atividades em andamento, acesse este [link](https://github.co
 ## Ideação do evento
 
 Leia sobre a idealização do evento [neste documento](https://github.com/pythonNordeste/organizacao-pyne-2023/issues/34). Nele você pencontrará informações sobre público previsto, formato e outros detalhes que devem ser considerados para a realização da conferência.
+
+## Calendário de submissão de trabalhos
+
+| Data |	Descrição |
+| 20 maio |	Abertura da chamada de trabalhos |
+| 18 jun | Fechamento das submissões |
+| 07 jul | Prazo de revisão dos avaliadores |
+| 10 jul | Decisão final das aprovadas |
+| 13 jul | Envio de resposta para aprovadas |
+| 21 jul | Resposta das aprovadas aceitando apresentar-se no evento |
+| 22 jul | Contato com lista de espera caso haja desistências |
+| 26 jul | Definição da grade |
+| 01 ago | Publicação da grade |
