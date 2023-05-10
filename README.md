@@ -35,6 +35,7 @@ Leia sobre a idealização do evento [neste documento](https://github.com/python
 ## Calendário de submissão de trabalhos
 
 | Data |	Descrição |
+|------|-------------|
 | 20 maio |	Abertura da chamada de trabalhos |
 | 18 jun | Fechamento das submissões |
 | 07 jul | Prazo de revisão dos avaliadores |
